@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "googlelogin-balane",
+    "slug": "googlelogin-balane",
+    "scheme": "googlelogin-balane",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jamesbalane.googleloginbalane"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7def13f4-458f-428e-bc4b-d3c1fe6c9841"
+      }
+    },
+    "owner": "jamesbalane"
+  }
+}
